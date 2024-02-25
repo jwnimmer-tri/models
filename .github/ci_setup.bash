@@ -4,4 +4,4 @@
 set -euxo pipefail
 
 # XXX
-echo "hello, world"
+echo "hello, world!"
